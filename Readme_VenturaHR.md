@@ -1,6 +1,6 @@
 
 # Ventura HR
-Construção do software VenturaHR (em andamento) com sunção de análise detalhada por meio de um cruzamento de dados candidato x requisito. Desta maneira é possível posicionar cada candidato em um ranking pelo grau de atendimento aos critérios relativos a cada candidatura.
+Construção do software VenturaHR (em andamento) com função de análise detalhada por meio de um cruzamento de dados candidato x requisito. Desta maneira é possível posicionar cada candidato em um ranking pelo grau de atendimento aos critérios relativos a cada candidatura.
 
 # Nome do Projeto
 > ADS - [21GRLADS01BDJ501] Projeto de Bloco: Desenvolvimento Java [21E2_5]
